@@ -20,9 +20,10 @@
             <div class="nav">
                 
                 <ul class = "menu">
+
                     <li>
                         <a href="#">
-                            Главная
+                            <img src = "img/logo.png">
                         </a>
                     </li>
 

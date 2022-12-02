@@ -23,13 +23,15 @@
     <section id = "about" class="about">
         
         <p>Спасибо за заполнение формы, ответ скоро поступит на указанный Вами email.</p>
-        <!-- <img src= 'img/answer.png'> -->
+        <div class = "fig">
+            <img src= 'img/answer.png'>
+        </div>
         
     </section>
 
     <footer id = "footer" class="footer">
         <div class="container">
-        <li>
+            <li>
                 Для связи с нами Вы можете заполнить форму обратной связи или воспользоватья телеоном или почтой: Телефон: 8-777-777-77-77 Email: 777@yandex.ru
             </li>
         </div>
